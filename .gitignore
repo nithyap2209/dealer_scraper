@@ -1,5 +1,5 @@
-# Output data
-output/*.csv
+# Output data (kept in repo for reference)
+# output/*.csv
 
 # Scrapy cache
 .scrapy/
